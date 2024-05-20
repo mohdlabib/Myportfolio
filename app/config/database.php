@@ -17,8 +17,8 @@
 
 $db['default'] = array(
     'hostname' => 'localhost',
-    'username' => 'u955170694_labibs',
-    'password' => 'Emx=?y9i6nS!',
-    'database' => 'u955170694_cv'
+    'username' => '',
+    'password' => '',
+    'database' => ''
 );
 
